@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
