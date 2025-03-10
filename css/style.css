@@ -512,3 +512,7 @@ header {
 }
 
 /* facebook */
+.icon {
+    width: 24px; /* Set the desired width */
+    height: 24px; /* Set the desired height */
+}
