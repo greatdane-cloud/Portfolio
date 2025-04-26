@@ -1,4 +1,4 @@
-const navToggle = document.querySelector('.nav-toggle');
+const navToggle = document.querySelector('.hamburger');
 const navLinks = document.querySelectorAll('.nav__link')
 
 navToggle.addEventListener('click', () => {
